@@ -18,7 +18,7 @@ class Person
 
     public String getFullName() 
     {
-    return firstName + "" + lastName;
+    return firstName + " " + lastName;
     }
     }
     public class Practical1
